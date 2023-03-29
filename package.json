@@ -1,0 +1,11 @@
+{
+  "name": "jdb",
+  "version": "1.0.0",
+  "description": "Json DB for small datas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mailter",
+  "license": "MIT"
+}
