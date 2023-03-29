@@ -1,5 +1,5 @@
 {
-  "name": "jdb",
+  "name": "dbson",
   "version": "1.0.0",
   "description": "Json DB for small datas",
   "main": "index.js",
