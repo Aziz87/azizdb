@@ -1,6 +1,6 @@
 {
-  "name": "dbson",
-  "version": "1.0.0",
+  "name": "azizdb",
+  "version": "0.0.1",
   "description": "Json DB for small datas",
   "main": "index.js",
   "scripts": {
